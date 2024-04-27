@@ -1,0 +1,8 @@
+lab2_output: 24lab2partA.o
+        gcc -Wall 24lab2partA.o -o lab2_output
+
+24lab2partA.o: 24lab2partA.c
+        gcc -Wall -std=c99 -c 24lab2partA.c
+
+clean:
+        rm -f *.o lab2_output

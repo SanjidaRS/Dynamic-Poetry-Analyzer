@@ -8,7 +8,7 @@ Welcome to my Dynamic Poetry Analyzer repository! 📝💻
 
 - **Innovative Approach:** This project exemplifies a creative and efficient solution that demands proficiency in concepts such as binary files, dynamic memory allocation, makefile usage, and version control with GitLab.
 
-- **Complete Lab Solution:** The repository contains a meticulously crafted program named `poetry.c`, designed to fulfill the requirements of the lab assignment. It accurately analyzes poems provided in text files, calculating the total number of words and lines, as well as the word count per line.
+- **Complete Lab Solution:** The repository contains a meticulously crafted program named `all_poem.c`, designed to fulfill the requirements of the lab assignment. It accurately analyzes poems provided in text files, calculating the total number of words and lines, as well as the word count per line.
 
 - **Dynamic Memory Management:** My solution leverages dynamic memory allocation, ensuring optimal resource utilization and scalability. I employ `realloc` to dynamically resize arrays, accommodating varying input sizes without compromising performance.
 
